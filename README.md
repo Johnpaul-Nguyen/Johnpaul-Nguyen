@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnpaul-Nguyen
+- 👋 Hi, I’m @Johnpaul-Nguyen, a current freshman in the University of Oklahoma
 - 👀 I’m interested in: Programming and Music
 - 🌱 I’m currently learning: Java
 - 📫 How to reach me johnpaulwins727477@gmail.com
